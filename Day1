@@ -1,0 +1,78 @@
+ Revision time : 
+ 
+ * concept of money : https://www.youtube.com/watch?v=mzoX7zEZ6h4
+ 
+ * where did btc come from ?? must check : https://www.youtube.com/watch?v=W15A7Lf0_fI
+ 
+* Bitcoin network history : why btc ?...architecture, working...{check its whitepaper too : https://bitcoin.org/bitcoin.pdf }
+
+* why ethereum ? main features explore....turing completeness, smart contracts contacts,
+
+* Blockchain network ?? mempools ?? blockchain validation working ?? consensus algorithms : SHA256 and others ?? 
+    miners ?? how blocks are interconnected ? attributes in blocks ??      
+
+* Transaction fee in ethereum : eth,gwei, ...why need to pay fee ??? : 
+    smart contracts have operations(including operands and many functions)
+    and each operand/function have a specific fee, for more :google
+    
+* explore more about Blockchain, must watch code eater 6 hour vdo,,,here is the link : https://www.youtube.com/watch?v=6aF6p2VUORE
+
+* concept of DAO, explore the Dao attack , why ( eth and eth cash) or (btc and btc cash) ?...read about hard and soft fork.... 
+
+* READ ABOUT ORACLE PROBLEM AND SOLUTION : 
+ while confirming the transaction, blocks needs data...if they are getting it from outer world, then..in this case;
+ we are losing the main property of centralization (meaning that the data coming from outside world can be manipulated),
+ so this is oracle problem and to solve the CHAINLINK is helping. 
+ ==>> Chainlink is a decentralized oracle network that enables smart contracts to securely access off-chain data feeds, 
+ web APIs, and traditional bank payments. Chainlink is critical to connecting the blockchain ecosystem to the rest of the world. <==
+ simply: Chainlink provides data and external computation to smart contracts in decentralized manner. 
+ you must check check here  : https://www.youtube.com/watch?v=ZJfkNzyO7-U 
+ must must check here too : https://chain.link/education/blockchain-oracles 
+ 
+ * know more about ethereum features, its usecases .....
+ 
+ * explore the NEAR PROTOCOL ?? 
+ 
+ * ethereum main problems ?? 
+ 
+ * read more about layer-2 scaling solution and how the indian project : POLYGON is solving it ? what are they doing ?? 
+ 
+ * Know more about Solana ecosystem ?? solana vs ethereum ??? the trend of nfts in solana network  ?? 
+       google : ddos attack in solana ( from where hackers took millions of $ ) 
+ 
+ * LUNA ?? luna vs ethereum ??
+ 
+ (((((((( Bitcoin halving ?? btc 4 year cycle ?? )))))))))))))))))))))))))) 
+ * EXPLORE : DAPPS , DEFI , NFTS , METAVERSE 
+ * what is axie infinity (AXS)?? what is MANA, SAND (and their use in metaverse) ?? 
+ you can check the chart of axs in tradingview and explore more about it, why price moved to >1oo from only 5,6$ ?? 
+ concept of earn and play in AXS and then ,,,the trend of nfts came, then eth boom boom (all transactions need to be done in mostly eth, 
+ and as nfts are minted over ethereum network) that caused eth to go over 4,000/-
+ ....and following the path of axs,then TLM too came into hype..... 
+ 
+ * what is POW  and POS 
+ * what is ethereum 2.0 ?? how it is solving problems of ethereum ?? can it compete with solana ecosystem ?? 
+ * POS working in ethereum 2.0 
+ * explore a block : https://www.blockchain.com/btc/tx/f560f3cb1dda594f7fe5f665c4c2d45684764949bb5a5567d53f6a72744fbc1a
+                     https://etherscan.io/tx/0x03308e0e7a0b18098e286f6f89b3c88415761e721d15dac408e7ecc764bc6eb0
+     about HASH, data, timesamp, gas fees, and more.......
+     
+ * explore more about these terms : nodes, blocks, nonce, miners , validaters
+ Ethereum actually runs on Keccak256.
+==> Hash is a unique fixed length string to identify a piece of data.
+==> Hash algorithm is a function that computes data into a unique hash.
+==>  Mining is the process of finding a "solution" to the blockchain "problem".
+==>  Nodes get paid for mining blocks.
+==>  Block is a list of transactions mined together.
+==>  Nonce is a "number used once" to find the "solution" to the blockchain problem.
+==>  Nonce is also used to define the transaction number for an account/address.
+ 
+ 
+ 
+ 
+ 
+ 
+    
+    
+
+
